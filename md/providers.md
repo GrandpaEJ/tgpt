@@ -14,6 +14,6 @@
 - [Gemini](https://gemini.google.com) (Require a free API keys, supports [many models](https://ai.google.dev/gemini-api/docs/models/gemini), default model `gemini-2.0-flash`)
 
 **Image Generation Models**: 
-- AnyAPI (Requires API key, 100k anytokens/day)
+- AnyAPI (Requires API key, 100k anytokens/day, supports google/gemini-2.5-flash-image and more)
 - Arta (Free)
 - Pollinations (Free) ([Models](https://image.pollinations.ai/models))
